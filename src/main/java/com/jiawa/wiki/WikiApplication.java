@@ -3,9 +3,6 @@ package com.jiawa.wiki;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * @author MI
- */
 @SpringBootApplication
 public class WikiApplication {
 
